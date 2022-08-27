@@ -6,6 +6,8 @@
 **Email** ✉ :aroranikhil8184@gmail.com  
 **Linkedin**:https://www.linkedin.com/in/nikhilarora6541b91a4/
 
+![](https://komarev.com/ghpvc/?username=NikhilArora5)
+
 
 <!---
 NikhilArora5/NikhilArora5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
