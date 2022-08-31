@@ -4,8 +4,9 @@
 - I can quickly learn and adapt to the requirements of the organisation whether it be the skills required or deadline of the given tasks. 
 - If you think i can be a good asset for your organistaion or we can collaborate for a project feel free to contact me.  
 **Email** ✉ :aroranikhil8184@gmail.com  
-[**Linkedin**](https://www.linkedin.com/in/nikhilarora6541b91a4/)
-[**Portfolio**](https://nikhilarora-protfolio.netlify.app/)
+[**Linkedin**](https://www.linkedin.com/in/nikhilarora6541b91a4/)  
+
+[**Visit Portfolio**](https://nikhilarora-protfolio.netlify.app/)
 
 ![](https://komarev.com/ghpvc/?username=NikhilArora5)
 
