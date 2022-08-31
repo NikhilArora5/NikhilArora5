@@ -6,7 +6,7 @@
 **Email** ✉ :aroranikhil8184@gmail.com  
 [**Linkedin**](https://www.linkedin.com/in/nikhilarora6541b91a4/)  
 
-[**Visit Portfolio**](https://nikhilarora-protfolio.netlify.app/)
+  [**Visit Portfolio**](https://nikhilarora-protfolio.netlify.app/)
 
 ![](https://komarev.com/ghpvc/?username=NikhilArora5)
 
