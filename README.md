@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NikhilArora5)
 
-![Snake animation](https://github.com/NikhilArora5/NikhilArora5/blob/output/github-contribution-grid-snake.svg)
+
 <h2> 🚀 &nbsp;Skills</h2>
 <p align="left" margin="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="vscode" width="45" height="45" margin="50"  />
