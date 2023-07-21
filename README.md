@@ -4,7 +4,19 @@
 - I can quickly learn and adapt to the requirements of the organisation whether it be the skills required or deadline of the given tasks. 
 - If you think i can be a good asset for your organistaion or we can collaborate for a project feel free to contact me.  
 **Email** ✉ :aroranikhil8184@gmail.com  
-[**Linkedin**](https://www.linkedin.com/in/nikhilarora6541b91a4/)  
+[**Linkedin**](https://www.linkedin.com/in/nikhilarora6541b91a4/)
+<a href="https://www.linkedin.com/in/nikhilarora6541b91a4/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"  />         
+</a>
+<a href="">
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.seekpng.com%2Fipng%2Fu2q8u2a9a9t4w7e6_picture-my-portfolio-logo-png%2F&psig=AOvVaw3xubp0k-RXm4X71DrQ-Nek&ust=1690044401192000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJjhgJygoIADFQAAAAAdAAAAABAS)" width="80" height="80"  />         
+</a>
+
+![image](https://github.com/NikhilArora5/NikhilArora5/assets/90254283/f8900dc0-9a3d-4564-a0d0-d285aa6c1eb3)
+
+
+           
+            
   [**Visit Portfolio**](https://nikhilarora-protfolio.netlify.app/)
 
 ![](https://komarev.com/ghpvc/?username=NikhilArora5)
