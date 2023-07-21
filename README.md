@@ -4,13 +4,20 @@
 - I can quickly learn and adapt to the requirements of the organisation whether it be the skills required or deadline of the given tasks. 
 - If you think i can be a good asset for your organistaion or we can collaborate for a project feel free to contact me.  
 **Email** ✉ :aroranikhil8184@gmail.com  
-[**Linkedin**](https://www.linkedin.com/in/nikhilarora6541b91a4/)
+
+<p align="left" margin="50">
 <a href="https://www.linkedin.com/in/nikhilarora6541b91a4/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"  />         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="70"  />         
 </a>
-           
+
+<a href="https://nikhilarora-protfolio.netlify.app/">
+    <img src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" width="140" height="50" />     
+</a>
+ </p> 
+
+
             
-  [**Visit Portfolio**](https://nikhilarora-protfolio.netlify.app/)
+
 
 ![](https://komarev.com/ghpvc/?username=NikhilArora5)
 
@@ -34,6 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" height="45" />
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="70" height="45" />
           
           
           
