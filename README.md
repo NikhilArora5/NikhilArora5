@@ -7,8 +7,13 @@
 
 <p align="left" margin="50">
 <a href="https://www.linkedin.com/in/nikhilarora6541b91a4/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="70"  />         
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="80"   />         
 </a>
+<a href="mailto:aroranikhil8184@gmail.com ">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" width="90"  />         
+</a>
+
+
 
 <a href="https://nikhilarora-protfolio.netlify.app/">
     <img src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" width="140" height="50" />     
