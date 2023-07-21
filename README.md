@@ -5,16 +5,16 @@
 - If you think i can be a good asset for your organistaion or we can collaborate for a project feel free to contact me.   
 
 <p align="left" margin="50">
-<a href="https://www.linkedin.com/in/nikhilarora6541b91a4/">
+<a href="https://www.linkedin.com/in/nikhilarora6541b91a4/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="80"   />         
 </a>
-<a href="mailto:aroranikhil8184@gmail.com ">
+<a href="mailto:aroranikhil8184@gmail.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" width="90"  />         
 </a>
 
 
 
-<a href="https://nikhilarora-protfolio.netlify.app/">
+<a href="https://nikhilarora-protfolio.netlify.app/" target="_blank">
     <img src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" width="120" height="50" />     
 </a>
  </p> 
