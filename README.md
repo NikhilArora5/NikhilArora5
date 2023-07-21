@@ -15,7 +15,7 @@
 
 
 <a href="https://nikhilarora-protfolio.netlify.app/">
-    <img src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" width="140" height="50" />     
+    <img src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" width="120" height="50" />     
 </a>
  </p> 
 
