@@ -1,6 +1,6 @@
 # 👋 Hi I’m < NikhilArora />
-- I am a Full stack developer having an ardent interest in software development who loves to code </> and solve complex problems to achieve the desired result.
-- I have worked on various projects with technologies like Nodejs,Tailwind,Reactjs,Javascript,MongoDb , sql ,Nextjs , Firebase & i am always looking forward to learn and explore more.
+- I am a Full Stack Developer having an ardent interest in software development who loves to code </> and solve complex problems to achieve the desired result.
+- I have worked on various projects with technologies like Nodejs,Tailwind,Reactjs,Javascript,MongoDb , Sql ,Nextjs , Firebase & i am always looking forward to learn and explore more.
 - I can quickly learn and adapt to the requirements of the organisation whether it be the skills required or deadline of the given tasks. 
 - If you think i can be a good asset for your organistaion or we can collaborate for a project feel free to contact me.   
 
